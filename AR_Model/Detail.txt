@@ -1,0 +1,1 @@
+AR Model is just simple linear relation model. AR Model has lots of limitation related to trends and seasonality of Data.
