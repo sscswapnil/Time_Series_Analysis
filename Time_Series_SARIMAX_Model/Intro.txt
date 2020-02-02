@@ -1,0 +1,3 @@
+Best example with exog varibale which help to build best time series model. Holidays, weekends affect time series that 
+also we can consider to build a model. For this example we take kaggle competition example for customer expectation in 
+restraurant. 
