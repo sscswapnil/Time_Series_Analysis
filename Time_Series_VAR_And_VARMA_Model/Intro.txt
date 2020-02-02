@@ -1,0 +1,2 @@
+VARMA and VAR Model is used when two variables are interdependant but it is not giving more accuracy than traditional ARMA And 
+ARIMA Model Separetaly.
