@@ -1,0 +1,39 @@
+facebook prophet is strong library for prediction of time series analysis'
+
+if you do pip install fbprophet it will not work. it will give you some error so go for conda install may be this time also you
+get a error. so install below library step by step
+
+----- On prompt install ephem
+      conda install -c anaconda ephem
+      
+----- Install pystam
+      conda install -c conda-forge pystan
+      
+----- Finally fbprophet
+      conda install -c conda-forge fbprophet
+      
+      
+After all this install again you will get one holiday error so go for 
+
+----- pip install holidays==0.9.12
+
+
+For plotting TypeError: floating value like that go for below command
+
+pd.plotting.register_matplotlib_converters()
+
+
+so far I got this errors I will update if I found something else
+
+
+
+
+
+
+
+
+
+
+
+
+
