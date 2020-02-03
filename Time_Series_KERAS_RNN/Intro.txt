@@ -1,0 +1,1 @@
+RNN is helpful for sequencial analysis for time series in this analysis.
